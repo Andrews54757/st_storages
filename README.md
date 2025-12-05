@@ -76,9 +76,9 @@ The hopper cart needs to be filled with 4 non stackable items, leaving the last 
 - **Sorting speed:** up to ~2/3 hopper speed - 6000 items/hour - speed depends on how many slices are built.
 - **Size:** 17x18x27 - 2236 blocks (smaller version) 
 - **Extra features:** none, it just sorts.
-- **testing and known issues:** No known issues in the base version. **The version including hopperlocking and a chunkloader is broken in the world download, don't use it**. Tested by the creators.
+- **testing and known issues:** No known issues. Tested and reviewed by an Archive Curator.
 - [**Original post (13/09/2023)**](https://discord.com/channels/748542142347083868/749137424684285992/1151464188787576853)
-- [**Download link (latest update)**](https://discord.com/channels/748542142347083868/1151464188787576853/1433592127530471425)
+- [**DOWNLOAD LINK (Archive post - latest update)**](https://discord.com/channels/748542142347083868/833152072618606652/1446351354938265721)
 - [**Youtube video**](https://www.youtube.com/watch?v=DnrAoKd8ZOc)
 - [**Help thread:**](https://discord.com/channels/748542142347083868/1291785785707856026/1291785785707856026)
 
