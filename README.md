@@ -462,7 +462,7 @@ UI:
 
 The storages in this section are usually scaled to the needs of technical minecraft servers.
 
-## [1.21.9+] luckeY Main Storage
+## [1.21.9+] LuckeY Main Storage
 
 by Kendiii
 
