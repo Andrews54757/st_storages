@@ -75,7 +75,7 @@ The hopper cart needs to be filled with 4 non stackable items, leaving the last 
 - **What does it sort?** Sorts only stackable items (no shulker box unloader) into columns of chests; each column or category (1-wide) can hold up to 23 or 50 item types depending on the version chosen.
 - **Sorting speed:** up to ~2/3 hopper speed - 6000 items/hour - speed depends on how many slices are built.
 - **Size:** 17x18x27 - 2236 blocks (smaller version) 
-- **Extra features:** none, it just sorts.
+- **Extra features:** One of the provided versions has chunkloader included. The basic version just sorts, with no extra features.
 - **testing and known issues:** No known issues. Tested and reviewed by an Archive Curator.
 - [**Original post (13/09/2023)**](https://discord.com/channels/748542142347083868/749137424684285992/1151464188787576853)
 - [**DOWNLOAD LINK (Archive post - latest update)**](https://discord.com/channels/748542142347083868/833152072618606652/1446351354938265721)
