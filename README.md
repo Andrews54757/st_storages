@@ -462,6 +462,38 @@ UI:
 
 The storages in this section are usually scaled to the needs of technical minecraft servers.
 
+## [1.21.9+] luckeY Main Storage
+
+by Kendiii
+
+A complete system using accessible loaders, chest halls, multi item sorting, non-sytackable sorting and many peripherals.
+
+<img width="1708" height="825" alt="area_render_17_" src="https://github.com/user-attachments/assets/9d5565e0-9793-41e4-abd4-8ecbc673e282" />
+
+
+<details>
+<summary>Picture gallery - click to expand</summary>
+
+input:
+<img width="1920" height="1019" alt="2025-11-11_20 13 04" src="https://github.com/user-attachments/assets/042938de-9080-4eaa-be31-e9d8523fb860" />
+
+UI:
+<img width="1920" height="1019" alt="2025-11-11_20 16 45" src="https://github.com/user-attachments/assets/34869a61-bfe0-4857-921e-08c63c01e3ab" />
+<img width="1920" height="1019" alt="2025-11-11_20 13 58" src="https://github.com/user-attachments/assets/0bf55606-e6fc-4d42-ba05-f7097c2ec26b" />
+<img width="1920" height="1019" alt="2025-11-11_20 13 42" src="https://github.com/user-attachments/assets/2894a32b-0ac4-4604-8e7b-1bbed215d061" />
+<img width="1920" height="1019" alt="2025-11-11_20 13 23" src="https://github.com/user-attachments/assets/998e7276-3627-465b-8ffa-03b1d944a501" />
+<img width="1920" height="1019" alt="2025-11-11_20 13 15" src="https://github.com/user-attachments/assets/ff78d921-2bc7-407d-ad26-4f3ecf5bbaf2" />
+
+
+</details>
+
+- **What does it sort?** Sorts stackable items inside chests and boxes and many non-stackable items using both an unstackable sorter and copper golems. 640 chest hall items, 80 accessible loaders, 12 MIS categories holding up to 54 item types each.
+- **Sorting speed:** up to 16x hopper speed (144000 items/hour) unloading shulker boxes in parallel.
+- **Size:** 101x46x129 - 61831 blocks.
+- - **Extra features:** Chunkloading, many peripherals (furnace array, potion brewer, crafters), takes advantage of copper golems to sort many non-stackable items. The shulker boxes are accessible while being loaded. Standard safety features.
+- **testing and known issues:** No known major issues. The armour sorter is broken in 1.21.6+ due to a bug in the game. Armour pieces will end up in the unsorted chests soon or later, but this won't break anything else. Some light indicators are toggle-states, which means they must be built very carefully. Tested by the creator.
+- [Download link - latest update](https://discord.com/channels/748542142347083868/1407307639552999424/1438509513681670164)
+
 ## [1.20+] Yams v2
 by Etikle, basil, skyzy
 
