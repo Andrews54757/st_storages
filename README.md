@@ -462,11 +462,11 @@ UI:
 
 The storages in this section are usually scaled to the needs of technical minecraft servers.
 
-## [1.21.9+] LuckeY Main Storage
+## [1.21.9+] luckeY Main Storage
 
 by Kendiii
 
-A complete system using accessible loaders, chest halls, multi item sorting, non-sytackable sorting and many peripherals.
+A complete system using accessible loaders, chest halls, multi item sorting, non-stackable sorting and many peripherals.
 
 <img width="1708" height="825" alt="area_render_17_" src="https://github.com/user-attachments/assets/9d5565e0-9793-41e4-abd4-8ecbc673e282" />
 
