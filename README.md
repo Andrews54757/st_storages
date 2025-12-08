@@ -487,7 +487,7 @@ UI:
 
 </details>
 
-- **What does it sort?** Sorts stackable items inside chests and boxes and many non-stackable items using both an unstackable sorter and copper golems. 640 chest hall items, 80 accessible loaders, 12 MIS categories holding up to 54 item types each.
+- **What does it sort?** Sorts stackable items inside chests and boxes and many non-stackable items using both an unstackable sorter and copper golems. 640 chest hall items, 80 accessible loaders, 12 MIS categories holding up to 54 item types each. It **can't** sort full shulker boxes without unloading them.
 - **Sorting speed:** up to 16x hopper speed (144000 items/hour) unloading shulker boxes in parallel.
 - **Size:** 101x46x129 - 61831 blocks.
 - **Extra features:** Chunkloading, many peripherals (furnace array, potion brewer, crafters), takes advantage of copper golems to sort many non-stackable items. The shulker boxes are accessible while being loaded. Standard safety features.
