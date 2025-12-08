@@ -490,7 +490,7 @@ UI:
 - **What does it sort?** Sorts stackable items inside chests and boxes and many non-stackable items using both an unstackable sorter and copper golems. 640 chest hall items, 80 accessible loaders, 12 MIS categories holding up to 54 item types each.
 - **Sorting speed:** up to 16x hopper speed (144000 items/hour) unloading shulker boxes in parallel.
 - **Size:** 101x46x129 - 61831 blocks.
-- - **Extra features:** Chunkloading, many peripherals (furnace array, potion brewer, crafters), takes advantage of copper golems to sort many non-stackable items. The shulker boxes are accessible while being loaded. Standard safety features.
+- **Extra features:** Chunkloading, many peripherals (furnace array, potion brewer, crafters), takes advantage of copper golems to sort many non-stackable items. The shulker boxes are accessible while being loaded. Standard safety features.
 - **testing and known issues:** No known major issues. The armour sorter is broken in 1.21.6+ due to a bug in the game. Armour pieces will end up in the unsorted chests soon or later, but this won't break anything else. Some light indicators are toggle-states, which means they must be built very carefully. Tested by the creator.
 - [Download link - latest update](https://discord.com/channels/748542142347083868/1407307639552999424/1438509513681670164)
 
