@@ -386,9 +386,8 @@ Each hopper must be filled with 1 sample of the item you want to sort into the c
 - **Sorting speed:** up to 9,7x hopper speed under optimal conditions, averaging at 4x hopper speed.
 - **Size:** 66x39x58 - 40679 blocks (decorated version); 47x28x45 - 15052 blocks (without decoration)
 - **Extra features:** Chunkloaders and unstackable sorter included.
-- **testing and known issues:** No known issues. Tested by the creators. Both the box loaders for the bulk section and the MIS reset item lifetime using hopper carts. The overflow section should be emptied before it fills completely otherwise items and boxes can despawn, but even in that case the system doesn't break.
-- [**Original post (16/10/2025)**](https://discord.com/channels/748542142347083868/749137424684285992/1428167044087677050)
-- [**Download link (latest update)**](https://discord.com/channels/748542142347083868/1428167044087677050/1428230013102329968)
+- **testing and known issues:** No known issues. Tested and reviewed by an Archive Curator. Both the box loaders for the bulk section and the MIS reset item lifetime using hopper carts. The overflow section should be emptied before it fills completely otherwise items and boxes can despawn, but even in that case the system doesn't break.
+- [**Archival post with download link and other info)**](https://discord.com/channels/748542142347083868/833152072618606652/1465491404540088372)
 - [**Help thread**](https://discord.com/channels/748542142347083868/1430084216292511784)
 
 ## [1.19+] G-MIS v2.1
