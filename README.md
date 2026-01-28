@@ -523,7 +523,7 @@ UI:
 - **Extra features:** basic safety features, chunkloading, furnace array, restock station, yeeting station, small control panel and status indicators. The mini bulk version allows calling partially filled boxes from the UI.
 - **testing and known issues:** Mostly functional. Tested by the creators. Several issues were fixed after Archive Curator feedback. The box calling function in the Mini Bulk version should be clicked only once and never when the system is active, as it can easily break if spammed or spit out loose items if the the slice is currently loading them. The user should stick around until the chunkloading green beacon turns on after inputting items and when sorting boxes directly into the bulk. Overflowing and MIS items can despawn.
 - [**Original post (16/07/2024)**](https://discord.com/channels/748542142347083868/749137424684285992/1262854684037611600)
-- [**Download link (latest update)**](https://www.mediafire.com/folder/vlg6rvssbth2q/YAMS)
+- [**Download link (latest update)**](https://discord.com/channels/748542142347083868/1275462763791126558/1460475730654924811)
 - [**Help thread**](https://discord.com/channels/748542142347083868/1182775318830907412)
 
 ## [1.17+] Krebs' Main Storage System
