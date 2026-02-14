@@ -77,8 +77,9 @@ The hopper cart needs to be filled with 4 non stackable items, leaving the last 
 - **Size:** 17x18x27 - 2236 blocks (smaller version) 
 - **Extra features:** One of the provided versions has chunkloader included. The basic version just sorts, with no extra features.
 - **testing and known issues:** No known issues. Tested and reviewed by an Archive Curator.
-- [**Original post (13/09/2023)**](https://discord.com/channels/748542142347083868/749137424684285992/1151464188787576853)
-- [**DOWNLOAD LINK (Archive post - latest update)**](https://discord.com/channels/748542142347083868/833152072618606652/1446351354938265721)
+- [**Original post (13/09/2023) in Storage Tech Discord**](https://discord.com/channels/748542142347083868/749137424684285992/1151464188787576853)
+- [**DOWNLOAD LINK (Storage Tech Discord post - latest update)**](https://discord.com/channels/748542142347083868/833152072618606652/1446351354938265721)
+- [**DOWNLOAD LINK (Storage Catalog Website Link)**](https://storagecatalog.org/archives/MIS001-Compact-Categorizer/)
 - [**Youtube video**](https://www.youtube.com/watch?v=DnrAoKd8ZOc)
 - [**Help thread:**](https://discord.com/channels/748542142347083868/1291785785707856026/1291785785707856026)
 
@@ -126,7 +127,8 @@ The hopper cart needs to be filled with 0-19-1-1-1 64-stackable renamed items, *
 - **Size:** 16x18x16 - 2322 blocks (smaller version) 
 - **Extra features:** none, it just sorts.
 - **testing and known issues:** No known major issues. Tested by the creator. It's an extremely simple system that's more likely to resist chunk unloading events compared to more complex ones, however any claim about complete unload proofing is not to be trusted. The overflow/unsorted section should be cleared before it fills entirely as it lacks protection.
-- [**Download link (latest update) including additional info and screenshots**](https://discord.com/channels/748542142347083868/1142131464893370429/1145111266260684971)
+- [**Download link in Storage Tech Discord (latest update) including additional info and screenshots**](https://discord.com/channels/748542142347083868/1142131464893370429/1145111266260684971)
+- [**Download link on Storage Catalog website**](https://storagecatalog.org/archives/MIS007-Borb-MIS/)
 - [**Youtube video**](https://youtu.be/gfm1fbWiZ5I?si=HaXudep_92co71a5)
 
 ## [1.16+] Simple multi-item sorter
@@ -161,8 +163,8 @@ When filling the hopper below the filter chests, rememeber to use **different** 
 - **Size:** 34x32x31 - 4639 blocks
 - **Extra features:** Chunkloader included.
 - **testing and known issues:** No known issues. Tested by the creator. The unsorted/overflow slice should be cleared before it fills up completely as it lacks protection. The multi item sorter used isn't the most recent version.
-- [**Original post (11/06/2022)**](https://discord.com/channels/748542142347083868/985217000232087593/985218457463316510)
-- [**Download link (latest update)**](https://discord.com/channels/748542142347083868/985217000232087593/988473035294117888)
+- [**Original post (11/06/2022) in Storage Tech Discord**](https://discord.com/channels/748542142347083868/985217000232087593/985218457463316510)
+- [**Download link in Storage Tech Discord (latest update)**](https://discord.com/channels/748542142347083868/985217000232087593/988473035294117888)
 
 ## [1.19+] Scorpio MIS
 
@@ -205,8 +207,9 @@ The renamed items and the full stacks/unstackable items can be placed in differe
 - **Size:** 25x24x31 - 5083 blocks (undecorated version) 
 - **Extra features:** chunkloader and small restock station included.
 - **testing and known issues:** [broke during testing]( https://discord.com/channels/748542142347083868/1379029443733094513/1388670755813982292). The unsorted/overflow slice should be cleared before it fills up completely as it lacks protection. 
-- [**Original post (02/06/2025), download link and youtube video**](https://discord.com/channels/748542142347083868/749137424684285992/1379029443733094513)
-
+- [**Storage Tech Discord post (02/06/2025), download link and youtube video**](https://discord.com/channels/748542142347083868/749137424684285992/1379029443733094513)
+- [**TMC Catalogue Discord post, download link and youtube video**](https://discord.com/channels/1161803566265143306/1445867669130842368)
+- [**Storage Catalog Website post, download link and youtube video**](https://storagecatalog.org/archives/MIS003-Simple-Cart-based-MIS-Storage-Scorpio-MIS/)
 
 
 # Multi Item Sorting + Bulk
@@ -262,9 +265,10 @@ The hopper next to ice must be set as shown, with at least a sample of the item 
 - **Size:** 29x33x29 - 11499 blocks
 - **Extra features:** Chunkloader included. The shulker boxes partially filled can be called from the UI. There is a small restock station, a pause lever and a function to flush items stuck in the inaccessible MIS droppers (useful for debug). Safety features such as automatic pausing in case of overflow full.
 - **testing and known issues:** No known issues. Tested by the creator.
-- [**Original post (08/12/2023)**](https://discord.com/channels/748542142347083868/749137424684285992/1182780067164717197)
-- [**Download link (latest update)**](https://cdn.discordapp.com/attachments/1182780067164717197/1234329599165337621/J-M-IS_V3.01.zip?ex=68f99205&is=68f84085&hm=26dd35967eb1be2c801b6f631a844cec571115502df369a511204f06b779e3f0&)
-- [**Help thread**](https://discord.com/channels/748542142347083868/1182775318830907412)
+- [**Original post in Storage Tech Discord (08/12/2023)**](https://discord.com/channels/748542142347083868/749137424684285992/1182780067164717197)
+- [**Download link (latest update) in Storage Tech Discord**](https://cdn.discordapp.com/attachments/1182780067164717197/1234329599165337621/J-M-IS_V3.01.zip?ex=68f99205&is=68f84085&hm=26dd35967eb1be2c801b6f631a844cec571115502df369a511204f06b779e3f0&)
+- [**Download link (latest update) on Storage Catalog Website**](https://storagecatalog.org/archives/MIS005-J-MIS-Jay-s-Moony-Item-Sorter/)
+- [**Help thread in Storage Tech Discord**](https://discord.com/channels/748542142347083868/1182775318830907412)
 
 ## [1.19+] YAMIS
 
@@ -309,9 +313,10 @@ The filters of the box loaders are normal SS3 filters. The filter hopper must be
 - **Size:** 29x21x49 - 17610 blocks.
 - **Extra features:** Chunkloader included. The shulker boxes partially filled can be called from the UI. There is a nether portal for player use and a pause lever.
 - **testing and known issues:** No known issues. Tested by the creators. Noisy, and laggy on low end hardware due to clocking pistons. The unsorted/overflow/unstackable slice should be cleared before it fills up completely as it lacks protection. The box calling function should be clicked only once and never when the system is active, as it can easily break if spammed or spit out loose items if the the slice is currently loading them.
-- [**Original post (16/04/2025)**](https://discord.com/channels/748542142347083868/749137424684285992/1361920281634930718)
-- [**Download link (latest update)**](https://discord.com/channels/748542142347083868/1361920281634930718/1402919604078116884)
-- [**Help thread**](https://discord.com/channels/748542142347083868/1275462763791126558)
+- [**Original post (16/04/2025) in Storage Tech Discord**](https://discord.com/channels/748542142347083868/749137424684285992/1361920281634930718)
+- [**Download link (latest update) in Storage Tech Discord**](https://discord.com/channels/748542142347083868/1361920281634930718/1402919604078116884)
+- [**Download link (latest update) on Storage Catalog Website**](https://storagecatalog.org/archives/MIS002-YAMIS-Multi-Item-Storage-System/)
+- [**Help thread in Storage Tech Discord**](https://discord.com/channels/748542142347083868/1275462763791126558)
 
 ## [1.21+] XianyuMIS v2
 
@@ -387,8 +392,9 @@ Each hopper must be filled with 1 sample of the item you want to sort into the c
 - **Size:** 66x39x58 - 40679 blocks (decorated version); 47x28x45 - 15052 blocks (without decoration)
 - **Extra features:** Chunkloaders and unstackable sorter included.
 - **testing and known issues:** No known issues. Tested and reviewed by an Archive Curator. Both the box loaders for the bulk section and the MIS reset item lifetime using hopper carts. The overflow section should be emptied before it fills completely otherwise items and boxes can despawn, but even in that case the system doesn't break.
-- [**Archival post with download link and other info**](https://discord.com/channels/748542142347083868/833152072618606652/1465491404540088372)
-- [**Help thread**](https://discord.com/channels/748542142347083868/1430084216292511784)
+- [**Archival post with download link and other info in Storage Tech Discord**](https://discord.com/channels/748542142347083868/833152072618606652/1465491404540088372)
+- [**Archival post with download link and other info on Storage Catalog website**](https://storagecatalog.org/archives/MIS010-XianyuMIS-V2/)
+- [**Help thread in Storage Tech Discord**](https://discord.com/channels/748542142347083868/1430084216292511784)
 
 ## [1.19+] G-MIS v2.1
 
@@ -451,10 +457,11 @@ UI:
 - **Size:** 128x47x68 - 43100 blocks
 - **Extra features:** Unstackable sorting, chunkloaders, small status indicators panel.
 - **testing and known issues:** No known major issues. Tested by the creators. Some rail placements can be tricky to build. The unsorted/overflow slice should be cleared before it fills up completely as it lacks protection.
-- [**Original post (16/06/2024)**](https://discord.com/channels/748542142347083868/749137424684285992/1251974389088391259)
-- [**Download link (latest update)**](https://discord.com/channels/748542142347083868/1251974389088391259/1339736798930272266)
+- [**Original post (16/06/2024) in Storage Tech Discord**](https://discord.com/channels/748542142347083868/749137424684285992/1251974389088391259)
+- [**Download link (latest update) in Storage Tech Discord**](https://discord.com/channels/748542142347083868/1251974389088391259/1339736798930272266)
+- [**Download link (latest update) on the Storage Catalog website**](https://storagecatalog.org/archives/MIS008-Complete-Cart-Based-Storage/)
 - [**Youtube video**](https://www.youtube.com/watch?v=9eHcvMi7HUw)
-- [**Help thread**](https://discord.com/channels/748542142347083868/1252114876625584239)
+- [**Help thread in Storage Tech Discord**](https://discord.com/channels/748542142347083868/1252114876625584239)
 
 
 # Multi Item Sorting + Chest Halls + Bulk
@@ -491,7 +498,8 @@ UI:
 - **Size:** 101x46x129 - 61831 blocks.
 - **Extra features:** Chunkloading, many peripherals (furnace array, potion brewer, crafters), takes advantage of copper golems to sort many non-stackable items. The shulker boxes are accessible while being loaded. Standard safety features.
 - **testing and known issues:** No known major issues. Some light indicators are toggle-states, which means they must be built very carefully. Tested by the creator.
-- [Download link - latest update](https://discord.com/channels/748542142347083868/1407307639552999424/1466124381301243914)
+- [Download link - latest update in Storage Tech Discord](https://discord.com/channels/748542142347083868/1407307639552999424/1466124381301243914)
+- [Download link - latest update on Storage Catalog website](https://storagecatalog.org/archives/LS003-luckeY-Main-Storage/)
 
 ## [1.20+] Yams v2
 by Etikle, basil, skyzy
@@ -522,9 +530,10 @@ UI:
 - **Size:** 108x75x114 - 78493 blocks (full bulk, undecorated version - not counting glass floor)
 - **Extra features:** basic safety features, chunkloading, furnace array, restock station, yeeting station, small control panel and status indicators. The mini bulk version allows calling partially filled boxes from the UI.
 - **testing and known issues:** Mostly functional. Tested by the creators. Several issues were fixed after Archive Curator feedback. The box calling function in the Mini Bulk version should be clicked only once and never when the system is active, as it can easily break if spammed or spit out loose items if the the slice is currently loading them. The user should stick around until the chunkloading green beacon turns on after inputting items and when sorting boxes directly into the bulk. Overflowing and MIS items can despawn.
-- [**Original post (16/07/2024)**](https://discord.com/channels/748542142347083868/749137424684285992/1262854684037611600)
-- [**Download link (latest update)**](https://discord.com/channels/748542142347083868/1275462763791126558/1460475730654924811)
-- [**Help thread**](https://discord.com/channels/748542142347083868/1182775318830907412)
+- [**Original post (16/07/2024) in Storage Tech Discord**](https://discord.com/channels/748542142347083868/749137424684285992/1262854684037611600)
+- [**Download link (latest update) in Storage Tech Discord**](https://discord.com/channels/748542142347083868/1275462763791126558/1460475730654924811)
+- [**Download link (latest update) on Storage Catalog website**](https://storagecatalog.org/archives/LS006-Yams-v2-3/)
+- [**Help thread in Storage Tech Discord**](https://discord.com/channels/748542142347083868/1182775318830907412)
 
 ## [1.17+] Krebs' Main Storage System
 
@@ -555,8 +564,8 @@ UI:
 - **Size:** 114x101x109 - 93156 blocks
 - **Extra features:** Unstackable sorting, chunkloading, crafting station, furnace array, micro farms, big control panel, possibility to chunkload with a bot for use in the End dimension, many safety features.
 - **testing and known issues:** No known issues. Some components used are functional but not up to date (unstackable sorter, parallel unloader, MIS, mixed loaders used for overflow) Fully tested and reviewed by an Archive Curator. As chosen by the creator, there isn't a player-accessible input to sort full boxes without unloading them.
-- [**Archive post with download**](https://discord.com/channels/748542142347083868/833152072618606652/1083907230023295066)
-
+- [**Archive post with download on Storage Tech Discord**](https://discord.com/channels/748542142347083868/833152072618606652/1083907230023295066)
+- [**Archive post with download on Storage Catalog website**](https://storagecatalog.org/archives/LS005-Krebs-Main-Storage-System/)
 
 
 # Other/Advanced
@@ -595,4 +604,5 @@ UI:
 - **Size:** Very big. Almost 190000 blocks (not counting remote bulk).
 - **Extra features:** many safety features, player call from remote bulk, unstackable sorting, yeeting station, crafting station, restock station, mass crafter with huge loader array, status indicators, suspicious lack of a potion brewer.
 - **testing and known issues:** Tested by the creators and used in SMP for over a year. No known issues.
-- [**Original post, download link and youtube video**](https://discord.com/channels/748542142347083868/1189010750606426132/1189012529284919296)
+- [**Original post, download link and youtube video in Storage Tech Discord**](https://discord.com/channels/748542142347083868/1189010750606426132/1189012529284919296)
+- [**Original post, download link and youtube video on Soontech website**](https://soontech.org/browser/archives/ES003-Scicraft-Hybrid-Main-Storage/)
